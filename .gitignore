@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+*.db
+*.pdf
+.DS_Store
+
+models/
+reports/
+*.joblib
+*.log
+backend/data/
